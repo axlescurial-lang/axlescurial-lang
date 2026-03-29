@@ -18,11 +18,11 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=FF5733&text_color=ffffff&border_radius=12" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=FF5733&currStreakLabel=00F7FF&border_radius=12" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EVENSANTA&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=FF5733&text_color=ffffff&border_radius=12" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EVENSANTA&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=FF5733&currStreakLabel=00F7FF&border_radius=12" height="180" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noro18&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&border_radius=12" height="180" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noro18&bg_color=0d1117&color=00F7FF&line=FF5733&point=ffffff&area=true&hide_border=true&border_radius=12" height="180" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EVENSANTA&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&border_radius=12" height="180" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EVENSANTA&bg_color=0d1117&color=00F7FF&line=FF5733&point=ffffff&area=true&hide_border=true&border_radius=12" height="180" alt="Activity Graph" />
 </div>
