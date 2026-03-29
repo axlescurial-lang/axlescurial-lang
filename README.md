@@ -1,4 +1,4 @@
-#  Hi, I'm Even Santa (@evensanta11)
+#  Hi, I'm Even 
 
 ###  Front-End Developer & Linux Enthusiast
 -  **OS:** Debian Linux (Hyprland User)
