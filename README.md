@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-![Evensanta](./axlescurial-lang)
+![EVENSANTA](./axlescurial-lang)
 
 </div>
 
@@ -23,7 +23,7 @@ class Evensanta:
         self.location = "Building cool things 🌍"
         self.focus    = ["AI", "Computer Vision", "Web Apps"]
         self.learning = ["Advanced Python", "AI Chatbots", "Full-Stack Dev"]
-        self.os       = "Manjaro Linux 🐧"
+        self.os       = "Debian Linux 🐧"
         self.hobbies  = ["Gaming 🎮", "Music 🎵", "Ricing my Linux"]
         self.motto    = "Code. Learn. Repeat."
 
