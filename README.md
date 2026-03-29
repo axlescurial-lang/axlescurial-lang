@@ -3,7 +3,7 @@
 ###  Front-End Developer & Linux Enthusiast
 -  **OS:** Debian Linux (Hyprland User)
 - 󰅟 **Loves:** HTML, CSS, JavaScript & Neon Aesthetics
-- 🎮 **Gaming:** Mobile Legends (Chou, Hayabusa, Leomord)
+- 🎮 **Gaming:** Mobile Legends (nolan, Hayabusa, Leomord)
 - 🎨 **Style:** Turquoise & Purple Glow
 
 ---
