@@ -67,3 +67,11 @@
 
 <img src="https://gh-heat.anishroy.com/api/Akashio28/svg?theme=blue&darkMode=true&palette=0D1117,003333,006666,009999,00CCCC,00FFFF" alt="Contribution Heatmap" width="100%"/>
 
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Noro18&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
