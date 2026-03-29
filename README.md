@@ -1,5 +1,5 @@
 # 💫 About Me:
-Haiii even
+Haiii Even
 
 
 ## 🌐 Socials:
