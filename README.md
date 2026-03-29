@@ -1,3 +1,4 @@
+
 #  Hi, I'm Even 
 
 ###  Front-End Developer & Linux Enthusiast
@@ -13,16 +14,19 @@
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
-
-
-## 📊 GitHub Statistics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EVENSANTA&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=FF5733&text_color=ffffff&border_radius=12" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EVENSANTA&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=FF5733&currStreakLabel=00F7FF&border_radius=12" height="180" alt="GitHub Streak" />
+📊 GitHub Statistics
+</div>
+<div align="center">
+  <!-- Baris pertama: Stats dan Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashio28&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00FFFF&title_color=00FFFF&count_private=true" alt="GitHub Stats" width="48%"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashio28&theme=dark&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=6B7280" alt="GitHub Streak" width="48%"/>
+  
+  <!-- Baris kedua: Most Languages (kiri) dan Contribution Graph (kanan) -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashio28&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00FFFF" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=00FFFF" alt="Contribution Graph" width="50%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EVENSANTA&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&border_radius=12" height="180" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EVENSANTA&bg_color=0d1117&color=00F7FF&line=FF5733&point=ffffff&area=true&hide_border=true&border_radius=12" height="180" alt="Activity Graph" />
-</div>
+<img src="https://gh-heat.anishroy.com/api/Akashio28/svg?theme=blue&darkMode=true&palette=0D1117,003333,006666,009999,00CCCC,00FFFF" alt="Contribution Heatmap" width="100%"/>
+
